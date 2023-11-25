@@ -1,3 +1,3 @@
 # Generic Koleksiyonlar ve List
 
-List<T>
+List< T >
